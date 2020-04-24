@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="536dc0a2-4ead-426f-a92a-c5f50454cbe5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1azh1qaH0UApgogu9LCzZDfUam0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.mnogestva">
+    <configuration name="cont" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="24_04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cont.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mnogestva" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="24_04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnogestva.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="slovar" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="24_04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/slovar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spisok_del" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="24_04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spisok_del.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="while_first" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="24_04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_first.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.cont" />
+      <item itemvalue="Python.mnogestva" />
+      <item itemvalue="Python.slovar" />
+      <item itemvalue="Python.spisok_del" />
+      <item itemvalue="Python.while_first" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="536dc0a2-4ead-426f-a92a-c5f50454cbe5" name="Default Changelist" comment="" />
+      <created>1587744118636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587744118636</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="23" key="#Python" timestamp="1587750017629">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="170" y="23" key="#Python/0.23.1440.788@0.23.1440.788" timestamp="1587750017629" />
+    <state x="0" y="23" width="1071" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587747220306">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="0" y="23" width="1071" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.788@0.23.1440.788" timestamp="1587747220306" />
+    <state x="387" y="100" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1587744281049">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="387" y="100" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.788@0.23.1440.788" timestamp="1587744281049" />
+    <state x="368" y="233" key="EnvironmentVariablesDialog" timestamp="1587744254348">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="368" y="233" key="EnvironmentVariablesDialog/0.23.1440.788@0.23.1440.788" timestamp="1587744254348" />
+    <state width="1414" height="158" key="GridCell.Tab.0.bottom" timestamp="1587750317774">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1414" height="158" key="GridCell.Tab.0.bottom/0.23.1440.788@0.23.1440.788" timestamp="1587750317774" />
+    <state width="1414" height="158" key="GridCell.Tab.0.center" timestamp="1587750317773">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1414" height="158" key="GridCell.Tab.0.center/0.23.1440.788@0.23.1440.788" timestamp="1587750317773" />
+    <state width="1414" height="158" key="GridCell.Tab.0.left" timestamp="1587750317772">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1414" height="158" key="GridCell.Tab.0.left/0.23.1440.788@0.23.1440.788" timestamp="1587750317772" />
+    <state width="1414" height="158" key="GridCell.Tab.0.right" timestamp="1587750317773">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1414" height="158" key="GridCell.Tab.0.right/0.23.1440.788@0.23.1440.788" timestamp="1587750317773" />
+    <state x="-117" y="23" key="SettingsEditor" timestamp="1587750292650">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="-117" y="23" key="SettingsEditor/0.23.1440.788@0.23.1440.788" timestamp="1587750292650" />
+    <state x="337" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1587750420033">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="337" y="211" key="com.intellij.ide.util.TipDialog/0.23.1440.788@0.23.1440.788" timestamp="1587750420033" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/while_first.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
